@@ -11,8 +11,6 @@ D
 old/analysis_copy.py,d\7\d794f1b9642b38ecb3226fb595a9006b97a75fb2
 8
 old/2.py,1\e\1e6eda87426a82e2d4ec3052900d07e64bbc5726
-;
-utils_DB.py,0\a\0a197a81fdb31af4eaee87a7ee32e9fb38a9557f
 8
 utils.py,5\0\5031d0ea937a7fcbe0a14f778442700216efff7a
 <
@@ -25,8 +23,6 @@ Q.idea/sonarlint/securityhotspotstore/1/a/1a1b9769344cb239f2e540e1e6ee1efa2d3034
 Q.idea/sonarlint/securityhotspotstore/1/e/1e6eda87426a82e2d4ec3052900d07e64bbc5726,b\9\b94a718bde638628f733190aeb3c943638ca1753
 
 Q.idea/sonarlint/securityhotspotstore/6/8/68e4c5a3b0b830e137af45ec2b0871779f5f89ae,1\2\12d1a4c0019c8ea1f9400ca48b8d3c8ca2e9c922
-
-Q.idea/sonarlint/securityhotspotstore/0/a/0a197a81fdb31af4eaee87a7ee32e9fb38a9557f,c\4\c4fe9893c9777fad3ea9cc05ad40a3fe5ff90af1
 
 Q.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29,b\5\b58a0677868503201074e965423d875803239017
 w
